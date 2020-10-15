@@ -24,4 +24,6 @@ tags:
 </p>
 <script async src="//static.codepen.io/assets/embed/ei.js"></script>
 
-Πηγές:
+Πηγές: 
+https://www.udemy.com/course/the-web-developer-bootcamp/
+https://www.w3schools.com/cssref/css_colors.asp
