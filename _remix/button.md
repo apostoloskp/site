@@ -25,8 +25,11 @@ tags:
 <script async src="//static.codepen.io/assets/embed/ei.js"></script>
 
 Αλλαγές: 1)Τοποθέτησα ως link στο href το di.ionio.gr/ και άλλαξα το κείμενο του button σε Learn More
+
          2)Άλλαξα το χρώμα του box και το font family σε 'Lucida Console', monospace;
+         
          Με το πάτημα, το button αλλάζει χρώμα σε πράσινο ticked και μας ανακατευθύνει στη σελίδα της σχολής.
+         
 Πηγές: 
 https://www.udemy.com/course/the-web-developer-bootcamp/
 https://www.w3schools.com/cssref/css_colors.asp
