@@ -29,9 +29,7 @@ tags:
 
 Τροποποιήσεις: Προσέθεσα τα παρακάτω lines
  x Validation<
- <label for="x">x (format: xxx-xxx):</label><br/>
- <!--x validation-->
- <input id="x" type="x" pattern="x$" required
-ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button **Submit** και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
+ <label for="x">x (format: xxx-xxx):
+ <input id="x" type="x" pattern="x$" required, ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button **Submit** και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
 
 Πηγές: https://www.w3schools.com/tags/att_input_pattern.asp
