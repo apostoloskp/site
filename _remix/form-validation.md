@@ -26,3 +26,12 @@ tags:
 <script async src="//static.codepen.io/assets/embed/ei.js"></script>
 
 Εναλλακτικά https://codepen.io/P2015121/pen/QWERLBQ
+
+Τροποποιήσεις: Προσέθεσα τα παρακάτω lines
+ <h2>x Validation</h2>
+ <label for="x">x (format: xxx-xxx):</label><br/>
+ <!--x validation-->
+ <input id="x" type="x" pattern="x$" required
+ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button **Submit** και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
+
+Πηγές: https://www.w3schools.com/tags/att_input_pattern.asp
