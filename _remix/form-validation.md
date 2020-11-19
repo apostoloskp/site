@@ -23,4 +23,6 @@ tags:
   Form Validation</a> by P2015121 (<a href="https://codepen.io/P2015121">@P2015121</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="//static.codepen.io/assets/embed/ei.js"></script>
+
+Εναλλακτικά https://codepen.io/P2015121/pen/QWERLBQ
