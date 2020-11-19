@@ -28,7 +28,7 @@ tags:
 Εναλλακτικά https://codepen.io/P2015121/pen/QWERLBQ
 
 Τροποποιήσεις: Προσέθεσα τα παρακάτω lines
- <h2>x Validation</h2>
+ x Validation<
  <label for="x">x (format: xxx-xxx):</label><br/>
  <!--x validation-->
  <input id="x" type="x" pattern="x$" required
